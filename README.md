@@ -4,7 +4,7 @@
 
 ## 离线版 0.2（推荐）
 
-下载：[FuGuang-0.2-offline.dmg](https://github.com/jackotom/mac-app/releases/download/v0.2/FuGuang-0.2-offline.dmg)
+下载：[FuGuang-0.2-offline.dmg](https://github.com/jackotom/mac-app/raw/refs/heads/main/FuGuang-0.2-offline.dmg)
 
 版本：`0.2`，基于官方 `4.0.1` 修改。
 

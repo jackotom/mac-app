@@ -4,7 +4,7 @@
 
 ## 下载
 
-请前往 [Releases](https://github.com/jackotom/mac-app/releases) 下载最新版安装包。
+点击下载最新版：[FuGuang-4.0.1.dmg](https://github.com/jackotom/mac-app/raw/refs/heads/main/FuGuang-4.0.1.dmg)
 
 当前版本：`4.0.1`
 
